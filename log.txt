@@ -1,0 +1,66 @@
+commit c3d6d4dba973f3f2ad41fab86b7f241064b75af9
+Merge: e881a66 ca00a63
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 21:15:54 2026 +0300
+
+    changed str 2
+
+commit e881a66476eaef67da390969dca730f77c1dcb42
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 21:10:33 2026 +0300
+
+    changed str 2
+
+commit ca00a633fcc8685a1a2abad08b05ab1ba87c6169
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 21:09:39 2026 +0300
+
+    changed str 2
+
+commit d79de6ecd30ee3e625c92c38fa3f9ef2140fab54
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 21:04:02 2026 +0300
+
+    changed str 2
+
+commit f13eb09f2fba3398143b4b68b2a3202938207c68
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:56:07 2026 +0300
+
+    changed str 2
+
+commit fc9f6f3a0d9cd27eefdb02b3b019b5c8687c38ca
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:46:44 2026 +0300
+
+    Chenges str 2
+
+commit 0c39208936817cc9d304af622fe2bd08386044e4
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:41:13 2026 +0300
+
+    changed str 2
+
+commit 48eaa1f6ea6ea21b00a03bf7c69cfc01865e7434
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:24:38 2026 +0300
+
+    Added str 2
+
+commit adfe6e68c81adf2641e2da44f415aaa0cfd7ed9f
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:22:55 2026 +0300
+
+    Added str 2
+
+commit 52e83be3563306b9dd98d7213e1a8ed86de19a39
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:22:31 2026 +0300
+
+    Added str 1
+
+commit b8b3dca288750f4387da1981cefb6a1fbcade161
+Author: Gelzy788 <negm.ali@mail.ru>
+Date:   Sun Oct 4 20:17:26 2026 +0300
+
+    README was created
